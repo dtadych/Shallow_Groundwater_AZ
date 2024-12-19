@@ -1,0 +1,13 @@
+name: Drought_Southwest
+
+dependencies:
+  - pandas
+  - numpy
+  - matplotlib
+  - geopandas
+  - netCDF4
+  - xarray
+  - rioxarray
+  - toolz
+  - scipy
+  - openpyxl
