@@ -167,7 +167,7 @@ max_TS_DB_year.to_csv(outputpath + 'Wells55_GWSI_MAX_WLTS_DB_annual_updated.csv'
 # %%
 min_TS_DB_year.to_csv(outputpath + 'Wells55_GWSI_MIN_WLTS_DB_annual_updated.csv')
 
-# %% Creating totals for mapping
+# %% Creating totals for mapping - these things are optional
 min_yr = 2000.0
 mx_yr = 2022.0
 threshold = 15
