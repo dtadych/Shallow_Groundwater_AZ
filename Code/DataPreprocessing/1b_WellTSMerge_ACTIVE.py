@@ -133,6 +133,17 @@ LEN_TS_DB_year = pd.pivot_table(combo, index=["REGISTRY_ID"], columns=["year"], 
 max_TS_DB_year = pd.pivot_table(combo, index=["REGISTRY_ID"], columns=["year"], values=["depth"], dropna=False, aggfunc=np.max)
 min_TS_DB_year = pd.pivot_table(combo, index=["REGISTRY_ID"], columns=["year"], values=["depth"], dropna=False, aggfunc=np.min)
 
+# %%
+# Summarize by Monthly now
+combo_monthly2 = combo
+combo_monthly2.reset_index(inplace=True)
+combo_monthly2.date = combo.date.dt.strftime('%Y-%m')
+combo_monthly2.info()
+# %%
+WL_TS_DB_month = pd.pivot_table(combo_monthly2, index=["REGISTRY_ID"], columns=["date"], values=["depth"], dropna=False, aggfunc='mean')
+WL_TS_DB_month.info()
+WL_TS_DB_month.index.name = None
+WL_TS_DB_month.head()
 #%%
 WL_TS_DB_year.index.name = None
 WL_TS_DB_year.head()
@@ -167,6 +178,8 @@ max_TS_DB_year.to_csv(outputpath + 'Wells55_GWSI_MAX_WLTS_DB_annual_updated.csv'
 # %%
 min_TS_DB_year.to_csv(outputpath + 'Wells55_GWSI_MIN_WLTS_DB_annual_updated.csv')
 
+# %%
+WL_TS_DB_month.to_csv(outputpath + 'Wells55_GWSI_WLTS_DB_monthly.csv')
 # %% Creating totals for mapping - these things are optional
 min_yr = 2000.0
 mx_yr = 2022.0
