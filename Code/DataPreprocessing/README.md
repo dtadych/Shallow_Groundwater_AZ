@@ -13,8 +13,12 @@ Run items in this folder to move on to the stream analysis (FigureCreation).
         <br>  - *Note* - This code uses the excel form of this database found on a different webpage than the gis files.
        - Next, save it as a shapefile from the <a href='https://gisdata2016-11-18t150447874z-azwater.opendata.arcgis.com/datasets/azwater::gwsi-app/explore?layer=3&location=34.064362%2C-111.834805%2C6.67' target='_blank'>ADWR GIS Data repository here</a> into Data/Input/Shapefiles folder
        - Make sure to unzip all files
-2. Download "georeg_reproject_fixed" files from our <a href='https://datacommons.cyverse.org/browse/iplant/home/shared/commons_repo/curated/Tadych_AzGroundwaterSpatialAnalysis_Aug2023/Data/Shapefiles' target='_blank'>Cyverse database </a>
-   - Place in Data/Input/Shapefiles folder.
+2. Download NHD+ High Res
+3. Download Stream Gauge Data
+     - Since it can take a while for usgs to consolidate and we first wanted recent data, this data was originally downloaded in batches based on time periods
+        1) 2000-2025 with filename "USGS_Streamgauges"
+        2) 1980-1999 with filename "USGS_Streamgauges_19801999"
+     - Save it as a tab delimmited file in the Data/Input folder.  This can sometimes take a while to run and download
 
  ### Run Codes
  1. First, need to merge the well databases.  Make sure all filepaths match where the new data has landed.
