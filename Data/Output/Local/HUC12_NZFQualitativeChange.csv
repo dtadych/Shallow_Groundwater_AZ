@@ -1,0 +1,55 @@
+,huc12,80s vs 90s,90s vs 00s,00s vs 10s,10s vs 20s
+0,150100010508,no change,no change,no data,no data
+1,150100010607,no data,no data,no data,no data
+2,150100010608,no data,no data,no data,no data
+3,150100020101,no data,no data,no data,no change
+4,150100020405,no change,no data,no data,no data
+5,150100020908,no data,no change,no change,no change
+6,150100020909,no data,no change,no change,no change
+7,150100100208,decreased,no change,no change,no change
+8,150100100602,decreased,no change,no change,no change
+9,150200010403,no data,no data,increased,no data
+10,150200020103,no change,increased,increased,decreased
+11,150200020709,increased,increased,decreased,increased
+12,150200080206,no data,no data,increased,decreased
+13,150200080510,no data,no data,increased,increased
+14,150200080611,no data,no data,no change,no change
+15,150200100110,no data,increased,decreased,increased
+16,150200130402,no data,increased,increased,increased
+17,150200140204,no data,increased,no data,no data
+18,150301040305,increased,no data,no data,no data
+19,150301040306,increased,no data,no data,no data
+20,150301070105,no data,no data,no change,no change
+21,150302040202,increased,decreased,decreased,no change
+22,150302040409,decreased,increased,increased,decreased
+23,150400050909,decreased,increased,decreased,increased
+24,150400050910,decreased,increased,decreased,increased
+25,150400060808,no data,no data,no data,no data
+26,150501000111,no change,increased,no data,no data
+27,150501000207,no change,increased,decreased,increased
+28,150501000208,no change,increased,decreased,increased
+29,150501000711,no data,no data,no data,no data
+30,150502020507,no data,decreased,increased,increased
+31,150503010908,increased,decreased,increased,decreased
+32,150503040405,no data,increased,increased,increased
+33,150601010308,no change,no change,no change,no change
+34,150601020301,no change,no change,no change,no change
+35,150601030108,no change,no change,no change,no change
+36,150601030904,no change,no change,no change,no change
+37,150601040105,no data,no data,no data,no data
+38,150601050311,increased,increased,decreased,increased
+39,150601060306,no data,no data,no data,no data
+40,150602020108,no change,no change,no change,no change
+41,150602020607,no change,no change,no change,no change
+42,150602030405,increased,increased,decreased,increased
+43,150602030408,no data,no data,no change,no change
+44,150602030409,no data,no data,no change,no change
+45,150701020206,no data,no data,increased,decreased
+46,150701020605,increased,no data,no data,no data
+47,150701020607,increased,no data,no data,no data
+48,150701020808,no data,no data,no data,no data
+49,150701030311,no data,increased,increased,decreased
+50,150701030507,no data,increased,increased,decreased
+51,150702010803,no data,increased,increased,increased
+52,150702011502,no change,increased,decreased,decreased
+53,150803010412,no data,no data,increased,increased

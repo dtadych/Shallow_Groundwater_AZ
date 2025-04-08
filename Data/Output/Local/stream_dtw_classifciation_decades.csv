@@ -1,0 +1,25 @@
+,huc8,80s vs 90s,90s vs 00s,00s vs 10s,10s vs 20s
+0,15010001,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW
+1,15010010,Decreased Zero Flow & Decreased DTW,No change to Zero Flow & Decreased DTW,No change to Zero Flow & Decreased DTW,No change to Zero Flow & Increased DTW
+2,15020001,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW,Increased Zero Flow & Decreased DTW,No Change in Zero Flow or DTW
+3,15020002,Increased Zero Flow & Decreased DTW,Increased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW,Decreased Zero Flow & Decreased DTW
+4,15020008,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW,Increased Zero Flow & Increased DTW,Decreased Zero Flow & Decreased DTW
+5,15020010,No Change in Zero Flow or DTW,Increased Zero Flow & Decreased DTW,Decreased Zero Flow & Decreased DTW,Increased Zero Flow & Decreased DTW
+6,15030104,Increased Zero Flow & Decreased DTW,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW
+7,15030107,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW,No change to Zero Flow & Increased DTW,No change to Zero Flow & Decreased DTW
+8,15030204,Decreased Zero Flow & Decreased DTW,Increased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW,Decreased Zero Flow & Increased DTW
+9,15040005,Decreased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW,Decreased Zero Flow & No change to DTW,Increased Zero Flow & Increased DTW
+10,15050100,No change to Zero Flow & Decreased DTW,Increased Zero Flow & Increased DTW,Decreased Zero Flow & Decreased DTW,Increased Zero Flow & Increased DTW
+11,15050202,No Change in Zero Flow or DTW,Decreased Zero Flow & Decreased DTW,Increased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW
+12,15050301,Increased Zero Flow & Decreased DTW,Decreased Zero Flow & Decreased DTW,Increased Zero Flow & Decreased DTW,Decreased Zero Flow & Decreased DTW
+13,15050304,No Change in Zero Flow or DTW,Increased Zero Flow & Increased DTW,Increased Zero Flow & Decreased DTW,Increased Zero Flow & Decreased DTW
+14,15060101,No Change in Zero Flow or DTW,No change to Zero Flow & Decreased DTW,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW
+15,15060102,No change to Zero Flow & Increased DTW,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW
+16,15060103,No change to Zero Flow & Increased DTW,No change to Zero Flow & Increased DTW,No change to Zero Flow & Decreased DTW,No change to Zero Flow & Increased DTW
+17,15060105,Increased Zero Flow & Increased DTW,Increased Zero Flow & Decreased DTW,Decreased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW
+18,15060202,No change to Zero Flow & Decreased DTW,No change to Zero Flow & Increased DTW,No change to Zero Flow & Increased DTW,No change to Zero Flow & Decreased DTW
+19,15060203,Increased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW,Decreased Zero Flow & Decreased DTW,Increased Zero Flow & Decreased DTW
+20,15070102,Increased Zero Flow & Decreased DTW,No Change in Zero Flow or DTW,Increased Zero Flow & Increased DTW,Decreased Zero Flow & Decreased DTW
+21,15070103,No Change in Zero Flow or DTW,Increased Zero Flow & Decreased DTW,Increased Zero Flow & Increased DTW,Decreased Zero Flow & Increased DTW
+22,15070201,Increased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW
+23,15080301,No Change in Zero Flow or DTW,No Change in Zero Flow or DTW,Increased Zero Flow & Increased DTW,Increased Zero Flow & Increased DTW
